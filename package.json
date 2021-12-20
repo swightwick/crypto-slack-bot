@@ -1,0 +1,9 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "dependencies": {
+    "@slack/web-api": "^5.8.0",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^2.1.1"
+  }
+}
